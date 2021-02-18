@@ -10,7 +10,7 @@ header:
 
 
 
-Um Ihre Geomedienkompetenz weiterentwickeln zu können, war in diesem Semester schon zu Beginn Ihre allgemeine Medienkompetenz für die Teilnahme an den digitalen Lehr-Lernformaten gefordert. Nachdem Sie Karten interpretiert, Räume modelliert, Umgebungen kartographiert, Daten analysierte und Geomedien reflektiert haben, stehen wir nur noch vor der Frage: Wo geht's zur Prüfungsleistung?
+Um Ihre Geomedienkompetenz weiterentwickeln zu können, war in diesem Semester schon zu Beginn Ihre allgemeine Medienkompetenz für die Teilnahme an den digitalen Lehr-Lernformaten gefordert. Nachdem Sie Karten interpretiert, Räume modelliert, Umgebungen kartographiert, Daten analysiert und Geomedien reflektiert haben, stehen wir nur noch vor der Frage: Wo geht's zur Prüfungsleistung?
 
 <!--more-->
 
